@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thiszsachin
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Raect Advance and Backend development using node
+- 🌱 I’m currently learning Advance React and Backend development using node
 - 📫 How to reach me thiszsachin@gmail.com
 
 <!---
